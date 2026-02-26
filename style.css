@@ -1,8 +1,19 @@
-.planofundo {
+body{
     background-image: url("img/telafundo.png");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
     
+
+}
+
+.login{
+    background-image: radial-gradient( #0a0a0a, #8707f0ea);
+    border-radius:25px 25px 0px 25px;
+    width:100px;
+    height:100px;
+    
+
+
 
 }
