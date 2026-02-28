@@ -8,7 +8,7 @@ body{
 }
 
 .login{
-    background-image: radial-gradient( #0a0a0a, #8707f0ea);
+    background-image:linear-gradient( #0a0a0a, #8707f0ea);
     border-radius:25px 25px 0px 25px;
     width:100px;
     height:100px;
