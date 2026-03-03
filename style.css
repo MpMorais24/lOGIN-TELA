@@ -12,16 +12,28 @@ body{
 
 
 .login{
-
-    background-repeat:no-repeat;
-    background-attachment: fixed;
+   
     background-image:linear-gradient(to right,#8d02ff, #000000ef);
-    box-shadow: 1px 1px 15px #4e048b8e;
+    box-shadow: ;
     border-radius:60px 60px 0px 60px;
-    width:200px;
-    height:200px;
-    margin: auto ;
+    width:400px;
+    height:400px;
+    margin:auto;
     opacity:;
-    top: auto;
     position: relative;
-    
+}
+
+
+h1{
+
+    /*
+    Sorthand: Exemplo: font: italic bolder 2em sans-serif;.
+     Ao inves de usar uma 'font' para cada estilo. Usamos o Font e em uma unica linha se faz a efdição. 
+     
+     SEGUÊNCIA: FONT-STYLE -> FONTE WEIGHT (PESO DA FONTE) -> FONT-SIZE -> FONTE FAMILY
+     */
+
+    font: italic bolder 2em sans-serif;
+    margin: auto;
+    font-weight: ;
+}
