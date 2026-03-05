@@ -33,7 +33,14 @@ h1{
      SEGUÊNCIA: FONT-STYLE -> FONTE WEIGHT (PESO DA FONTE) -> FONT-SIZE -> FONTE FAMILY
      */
 
+     /*Text-align -> Serve para alinhamento do texto na pagina. Para deixar responsivo usamos Text-align (JUSTIFY).*/
+
+     /*Text-indent:;-> Serve para colocar o paragrafo no inicio do texto*/
+
     font: italic bolder 2em sans-serif;
     margin: auto;
     font-weight: ;
+    text-align: center;
+    color: aliceblue;
 }
+
